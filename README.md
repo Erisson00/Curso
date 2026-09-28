@@ -1,4 +1,3 @@
-Primeiro Texto
-Segundo texto
-terceito texto
-quarto texto
+Projeto
+
+Inicializando o projeto
